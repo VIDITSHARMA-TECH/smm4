@@ -1,0 +1,30 @@
+# ===========================
+# macOS
+# ===========================
+.DS_Store
+
+# ===========================
+# Python
+# ===========================
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environments
+my_env/
+venv/
+.venv/
+
+# ===========================
+# VS Code
+# ===========================
+.vscode/
+
+# ===========================
+# JetBrains IDEs
+# ===========================
+.idea/
+
+# Experimental outputs
+results.csv
+sm4_distinguisher_results.png
